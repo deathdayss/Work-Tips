@@ -1,0 +1,1 @@
+Text and image center: `<div align = "center"> xxx </div>`
